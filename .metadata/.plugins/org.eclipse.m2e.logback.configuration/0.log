@@ -1,0 +1,10 @@
+2015-11-17 15:37:08,327 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hybrid:Employee:0.0.1-SNAPSHOT @ D:\03_Src\spring_my\employee\pom.xml.
+2015-11-17 15:37:09,503 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee/src/main/java
+2015-11-17 15:37:09,504 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee/src/main/resources
+2015-11-17 15:37:09,511 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee/src/test/java
+2015-11-17 15:37:09,511 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee/src/test/resources
+2015-11-17 15:37:09,680 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2015-11-17 15:37:11,496 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 15:37:11,500 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-11-17 15:37:11,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-17 15:37:11,511 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
